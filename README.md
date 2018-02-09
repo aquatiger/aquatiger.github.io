@@ -1,5 +1,5 @@
 ## Welcome to Aguatiger's Lair
-![Image](aquatiger yellow backgr.jpg)
+[Image](aquatiger yellow backgr.jpg)
 
 ## Welcome to GitHub Pages
 

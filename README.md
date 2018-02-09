@@ -1,5 +1,6 @@
 ## Welcome to Aquatiger's Lair
 ![Image](aquatiger yellow backgr.jpg)
+:aquarius: :U+2Ec1:
 
 ## Welcome to GitHub Pages
 

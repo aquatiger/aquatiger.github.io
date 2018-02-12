@@ -2,8 +2,8 @@
 ![Image](aquatiger yellow backgr.jpg)
 :aquarius: :U+2Ec1:
 
-### To find out more about my username, click on the link below:
-
+### To find more about my username, click on the link below:
+[History of username](https://github.com/aquatiger/aquatiger.github.io/blob/master/history%20of%20username)
 
 ## Welcome to GitHub Pages
 

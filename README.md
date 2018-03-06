@@ -5,6 +5,9 @@
 ### To find more about my username, click on the link below:
 [History of username](https://github.com/aquatiger/aquatiger.github.io/blob/master/history%20of%20username)
 
+### Please find your way to my profile:
+[Github profile](https://github.com/aquatiger)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aquatiger/aquatiger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

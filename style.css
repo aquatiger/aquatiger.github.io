@@ -1,7 +1,7 @@
          <style>
          header {
              position: fixed;
-             background-color: #bbbbbb;
+             background-color: #000;
              top: 0px;
              left: 0px;
              width: 100%;
@@ -19,7 +19,7 @@
              float: left;
              width: 20%;
              height: 500px;
-             background-color: blue;
+             background-color: yellow;
              color: white;
          }
          aside {
